@@ -8,7 +8,7 @@ import android.os.Handler
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
-import com.example.mad_prac8_20012011107.R
+import com.example.practial8.R
 
 class SplashActivity : AppCompatActivity(),Animation.AnimationListener {
 
