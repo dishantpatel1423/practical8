@@ -4,7 +4,7 @@ import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
-import com.example.mad_prac8_20012011107.R
+import com.example.practical8.R
 
 class MainActivity : AppCompatActivity() {
 
